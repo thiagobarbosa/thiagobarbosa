@@ -12,7 +12,7 @@ or [Android](https://play.google.com/store/apps/details?id=com.acamp&hl=en&gl=US
 You can see my previous experiences on my [LinkedIn profile](https://www.linkedin.com/in/t-barbosa/).
 
 ### Personal projects
-- #### [Brazilians Who Code](https://brazilianswhocode.com)
+- #### <a href="https://brazilianswhocode.com" target="_blank">Brazilians Who Code</a>
 A website that lists Brazilian developers around the world.
 
 - #### [Meme Tab](https://chromewebstore.google.com/detail/meme-tab/baclnkdmfcpihjpbahndlmjmliibaena?pli=1)
