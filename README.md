@@ -19,10 +19,11 @@ You can see my previous experiences on my [LinkedIn profile](https://www.linkedi
 ___
 
 ### Personal projects
-- #### <a href="https://brazilianswhocode.com" target="_blank">Brazilians Who Code</a>
+- #### [Brazilians Who Code](https://github.com/thiagobarbosa/brazilianswhocode)
 A website that lists Brazilian developers around the world.
 
-- #### [Meme Tab](https://chromewebstore.google.com/detail/meme-tab/baclnkdmfcpihjpbahndlmjmliibaena?pli=1)
+
+- #### [Meme Tab](https://github.com/thiagobarbosa/MemeTab)
 A Chrome extension that shows a random meme from Reddit every time you open a new tab.
 
 ___
