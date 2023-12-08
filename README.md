@@ -1,11 +1,9 @@
 
 ## Hello!
-<br/><br/>
 
 Welcome to my GitHub profile.
 I'm Thiago Barbosa, a software engineer from Brazil living in **Stockholm, Sweden**.
 
-<br/>
 
 ### Current work
 I'm the co-founder of **Acamp**, a startup that helps people to find and book campsites in Europe.
