@@ -16,16 +16,6 @@ You can see my previous experiences on my [LinkedIn profile](https://www.linkedi
 
 ___
 
-### Personal projects
-- #### [Brazilians Who Code](https://github.com/thiagobarbosa/brazilianswhocode)
-A website that lists Brazilian developers around the world.
-
-
-- #### [Meme Tab](https://github.com/thiagobarbosa/MemeTab)
-A Chrome extension that shows a random meme from Reddit every time you open a new tab.
-
-___
-
 ### Technologies
 I'm currently working with the following technologies:
 - Kotlin
@@ -36,6 +26,20 @@ I'm currently working with the following technologies:
 - Google Cloud Platform (mainly Kubernetes and the whole stack used at Acamp)
 
 I sometimes make some contributions to Acamp's iOS and Android apps, which are written in Swift and Kotlin, respectively.
+
+___
+
+
+### Personal projects
+- #### [Brazilians Who Code](https://github.com/thiagobarbosa/brazilianswhocode)
+A website that lists Brazilian developers around the world.
+
+- #### [Github Issues on Google Tasks](https://github.com/thiagobarbosa/github-issues-on-google-tasks)
+A Google Script that syncronizes your Github Issues into Google Tasks.
+
+- #### [Meme Tab](https://github.com/thiagobarbosa/MemeTab)
+A Chrome extension that shows a random meme from Reddit every time you open a new tab.
+
 ___
 
 ### Github stats
