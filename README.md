@@ -43,7 +43,7 @@ A Chrome extension that shows a random meme from Reddit every time you open a ne
 ___
 
 ### Github stats
-<img src="https://github-streak-thiagobarbosa.vercel.app?user=thiagobarbosa&theme=city-lights&hide_border=false" alt="streak" width="450" height="180"/> <img src="https://github-readme-stats-thiagobarbosa.vercel.app/api/top-langs/?username=thiagobarbosa&layout=compact&theme=city_lights&hide=scss&hide_border=true" alt="streak" width="450" height="180"/>
+<img src="https://github-streak-thiagobarbosa.vercel.app?user=thiagobarbosa&theme=city-lights&hide_border=false" alt="streak" width="450" height="180"/> <img src="https://github-readme-stats-thiagobarbosa.vercel.app/api/top-langs/?username=thiagobarbosa&layout=compact&theme=city_lights&hide=scss&hide_border=true" alt="streak" width="350" height="180"/>
 
 ___
 
