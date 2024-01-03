@@ -31,6 +31,9 @@ ___
 
 
 ### Personal projects
+- #### [Github Package Proxy](https://github.com/thiagobarbosa/github-package-proxy)
+A simple proxy application to expose Github Maven Packages without authentication
+
 - #### [Brazilians Who Code](https://github.com/thiagobarbosa/brazilianswhocode)
 A website that lists Brazilian developers around the world.
 
@@ -39,6 +42,9 @@ A Google Script that syncronizes your Github Issues into Google Tasks.
 
 - #### [Meme Tab](https://github.com/thiagobarbosa/MemeTab)
 A Chrome extension that shows a random meme from Reddit every time you open a new tab.
+
+- #### [Quorum API](https://github.com/thiagobarbosa/quorum-api)
+A REST API to monitor the usage of public money by the members of Sao Paulo City Council (repo in Portuguese)
 
 ___
 
