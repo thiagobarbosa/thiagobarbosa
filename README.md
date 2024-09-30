@@ -2,7 +2,7 @@
 ## Hello!
 
 Welcome to my GitHub profile.
-I'm Thiago Barbosa, a software engineer from Brazil living in **Stockholm, Sweden**.
+I'm Thiago Barbosa, a computer scientist from Brazil living in **Stockholm, Sweden**.
 
 
 ### Current work
@@ -20,6 +20,7 @@ ___
 I'm currently working with the following technologies:
 - Kotlin
 - SpringFramework (mainly Spring Boot)
+- All things Typescript
 - React and Next.js
 - MySQL
 - GraphQL
@@ -49,4 +50,4 @@ A REST API to monitor the usage of public money by the members of Sao Paulo City
 ___
 
 ### Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/in/t-barbosa/) or [Twitter](https://twitter.com/tsouza_barbosa).
+You can reach me at [LinkedIn](https://www.linkedin.com/in/t-barbosa/) or [Twitter](https://twitter.com/tsouza_barbosa) (if it still exists).
