@@ -33,19 +33,25 @@ ___
 
 ### Personal projects
 - #### [Github Package Proxy](https://github.com/thiagobarbosa/github-package-proxy)
-A simple proxy application to expose Github Maven Packages without authentication
+  A simple proxy application to expose Github Maven Packages without authentication
 
 - #### [Brazilians Who Code](https://github.com/thiagobarbosa/brazilianswhocode)
-A website that lists Brazilian developers around the world.
+  A website that lists Brazilian developers around the world.
+
+- #### [AI Chatbot with Redis](https://github.com/thiagobarbosa/ai-chatbot-with-redis)
+  A Nextjs-based chatbot that uses Redis to store and retrieve user messages.
+
+- #### [Theme Switcher for Next.js](https://github.com/thiagobarbosa/theme-switcher-nextjs)
+  A beautifully designed theme switcher component for Next.js applications.
 
 - #### [Github Issues on Google Tasks](https://github.com/thiagobarbosa/github-issues-on-google-tasks)
-A Google Script that syncronizes your Github Issues into Google Tasks.
+  A Google Script that syncronizes your Github Issues into Google Tasks.
 
 - #### [Meme Tab](https://github.com/thiagobarbosa/MemeTab)
-A Chrome extension that shows a random meme from Reddit every time you open a new tab.
+  A Chrome extension that shows a random meme from Reddit every time you open a new tab.
 
 - #### [Quorum API](https://github.com/thiagobarbosa/quorum-api)
-A REST API to monitor the usage of public money by the members of Sao Paulo City Council (repo in Portuguese)
+  A REST API to monitor the usage of public money by the members of Sao Paulo City Council (repo in Portuguese)
 
 ___
 
